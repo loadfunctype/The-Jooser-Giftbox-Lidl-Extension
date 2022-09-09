@@ -9,6 +9,10 @@ forsenSmug 20:38 xqcL
 
 [Firefox Version]: Clueless Soon Probably
 
+## Known Bugs
+
+The Jooser Gift Box Lidl Extension WILL NOT WORK with Forsen's Giftbox Lidl Extension original extension. That means that if you enable both extensions at the same time, the emotes won't show up or will glitch.
+
 ## Features
 
 ### Emotes
