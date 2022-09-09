@@ -1,6 +1,5 @@
 # The-Jooser-Giftbox-Lidl-Extension
 All credits goes to Forsen's Giftbox Channels and Creators, i just wanted to make a version for the jooser flushE
-This is a third party extension that
 
 forsenSmug 20:38 xqcL
 
